@@ -24,3 +24,5 @@ int main(){
     int* total = twoSum(nums, 4, target, &returnSize);
     printf("[%i,%i]", total[0],total[1]);
 }
+
+/**aaa**/
