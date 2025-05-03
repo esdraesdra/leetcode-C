@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <math.h>
 int nums[] = {2,7,11,15}, target = 9,sum[2],returnSize;
 
 /**
